@@ -1,0 +1,17 @@
+sudo apt update
+sudo apt install python3-pip python3-picamera2 \
+                 libatlas-base-dev libdbus-1-dev
+pip3 install pyzbar firebase-admin tensorflow-lite socketio-client bluezero
+
+
+
+run pi pantry
+
+
+
+
+RUN: cd ~
+sudo ./pi_pantry.py
+
+
+https://drive.google.com/drive/folders/1ptCRPiL91MvxGWwmWhMLnixYs4Tyqhv3
